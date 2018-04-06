@@ -1,2 +1,1 @@
-# fileMetadata
-FCC exercise 05 - File Metadata
+# Backend Challenges boilerplate - package.json
